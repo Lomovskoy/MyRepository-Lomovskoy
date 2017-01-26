@@ -1,0 +1,84 @@
+header{
+    border: 1px solid #afeeee;
+    background-color: #99ff99;
+    padding: 10px;
+}
+footer{
+    /*border: 1px solid #afeeee;*/
+    position: absolute;
+    top: 550px;
+    height: 120px;
+    width: 750px
+}
+.main{
+    background-color: #f0fff6;
+    height: 700px;
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+    position: relative;
+}
+.head{
+    margin-left: 300px;
+    display: inline-block;
+    text-align: center;
+}
+.botton_1{
+    position: absolute;
+    top: 30px
+}
+.botton_left{
+    position: absolute;
+    top: 60px;
+    left: 200px;
+}
+.botton_right{
+    position: absolute;
+    top: 60px;
+    left: 600px;
+}
+.content{
+    border: 1px solid #afeeee;
+    background-color: #a3ff66;
+    margin-top: 20px;
+    height: 500px;
+    padding: 20px
+}
+.botton_2{
+    position: absolute;
+    top: 30px;
+    position: absolute;
+    top: 330px     
+}
+.vvod{
+    /*border: 1px solid #afeeee;*/
+    width: 420px;
+    position: absolute;
+    left: 150px;
+    top: 180px
+        
+}
+.vvod1{margin:20px;margin-left:60px;}
+.vvod2{margin:20px;margin-left:93px;}
+.vvod3{margin:20px;margin-left:40px;}
+.vvod4{margin:20px;margin-left:45px;}
+.vvod5{margin:20px;margin-left:63px;}
+.vvod6{margin:20px;margin-left:37px;}
+.vvod7{margin:20px;margin-left:82px;}
+.vvod8{margin:20px;margin-left:80px;}
+.right_blok{
+    /*border: 1px solid #afeeee;*/
+    position: absolute;
+    left: 580px;
+    top: 200px
+}
+.bottons{
+    position: absolute;
+    left: 180px;
+    top: 10px
+}
+.spisok{
+    position: absolute;
+    left: 20px;
+    top: 100px
+}
